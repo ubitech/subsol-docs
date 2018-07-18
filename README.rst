@@ -13,7 +13,7 @@ Look how easy it is to use:
 Create Account
 --------
 
-- When user access the Entropy site xxxxx the following screen is shown:
+- When user access the SUBSOL site xxxxx the following screen is shown:
 .. image:: assets/Log.png
 
 - Create developer account
@@ -21,9 +21,9 @@ Create Account
 Login
 ------------
 
-- When user access the Entropy site xxx the following screen is shown:
+- When user access the SUBSOL site xxx the following screen is shown:
 
-.. image:: assets/Log.png
+.. image:: assets
    
 
 Logout
