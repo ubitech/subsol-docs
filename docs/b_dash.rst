@@ -21,7 +21,7 @@ Campaign Manager Dashboard
 
 Also can see the behavioural profile of the registered Users. To see the behavioural change has to compare the behavioural heatmaps hosted at the campaigns menu part.
 
-.. image:: assets/dashboardBehavioural.png
+.. image:: assets/
 
 
 
