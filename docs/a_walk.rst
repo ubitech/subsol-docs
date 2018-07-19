@@ -6,7 +6,7 @@ Create Account
 
 - When a user access the SUBSOL site  the following screen is shown:
 
-.. image:: https://user-images.githubusercontent.com/17601358/33116585-02a8fe8e-cf6e-11e7-80e2-bcf7a1c68ae1.png
+.. image:: 
 
 - Click on login button.
 
@@ -35,7 +35,7 @@ Login
 
 - When a user access the SUBSOL site  the following screen is shown:
 
-.. image:: https://user-images.githubusercontent.com/17601358/33116585-02a8fe8e-cf6e-11e7-80e2-bcf7a1c68ae1.png
+.. image:: 
 
 - Click the <Log in> button .
 
@@ -59,7 +59,7 @@ Logout
 
 - Upon successful logout the following screen will be presented.
 
-.. image:: https://user-images.githubusercontent.com/17601358/33116585-02a8fe8e-cf6e-11e7-80e2-bcf7a1c68ae1.png
+.. image:: 
 
 Reset password
 -------
