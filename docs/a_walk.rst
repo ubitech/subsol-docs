@@ -6,7 +6,7 @@ Create Account
 
 - When a user access the SUBSOL site  the following screen is shown:
 
-.. image:: 
+.. image::
 
 - Click on login button.
 
@@ -35,7 +35,7 @@ Login
 
 - When a user access the SUBSOL site  the following screen is shown:
 
-.. image:: 
+.. image::
 
 - Click the <Log in> button .
 
@@ -59,7 +59,7 @@ Logout
 
 - Upon successful logout the following screen will be presented.
 
-.. image:: 
+.. image::
 
 Reset password
 -------
