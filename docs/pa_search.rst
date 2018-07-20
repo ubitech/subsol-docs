@@ -1,6 +1,0 @@
-============
-Search
-============
-Advance Search
---------------
-- Search
