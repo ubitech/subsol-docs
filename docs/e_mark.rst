@@ -11,5 +11,5 @@ Reference applications
 ----------------------
 Inbox
 ------
-Knowledge Base
+Knowledge Base Button
 --------------
