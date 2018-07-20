@@ -25,5 +25,5 @@ Persons
 
 Organisations
 -------------
-Terms
+Terms v1
 ------
