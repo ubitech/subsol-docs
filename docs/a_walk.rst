@@ -8,24 +8,24 @@ Create Account
 
 - step 2
 
-..image:: assets/intro_2.png
+.. image:: assets/intro_2.png
 
 - Step 3
 
-..image:: assets/intro_3.png
+.. image:: assets/intro_3.png
 
 - Step 4
 
-..image:: assets/intro_4.png
+.. image:: assets/intro_4.png
 
 - Step 5
 
-..image:: assets/intro_5.png
+.. image:: assets/intro_5.png
 
 - Step 6
 
-..image:: assets/intro_6.png
+.. image:: assets/intro_6.png
 
 - Step 7
 
-..image:: assets/intro_7.png
+.. image:: assets/intro_7.png
