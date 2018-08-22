@@ -9,7 +9,6 @@ regarding the set of services provided through the platform.
 
 Login to account
 -----------------
-
 .. image:: assets/subsol_cr_1.png
 
 - Step 2
@@ -20,8 +19,8 @@ Login to account
 
 .. image:: assets/subsol_cr_3.png
 
- Edit account
-----------------------
+Edit account
+-------------
 
 .. image:: assets/subsol_ed_1.png
 
