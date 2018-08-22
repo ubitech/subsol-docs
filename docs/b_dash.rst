@@ -7,7 +7,8 @@ regarding the set of services provided through the platform.
 
 .. image:: assets/intro_1.png
 
-- Login to account
+Login to account
+-----------------
 
 .. image:: assets/subsol_cr_1.png
 
@@ -19,7 +20,8 @@ regarding the set of services provided through the platform.
 
 .. image:: assets/subsol_cr_3.png
 
-- Edit account
+ Edit account
+----------------------
 
 .. image:: assets/subsol_ed_1.png
 
