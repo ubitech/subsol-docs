@@ -4,12 +4,11 @@ Knowledge Base
 Public Services
 ----------------
 
-### Read more
+1. Read more
 
+2. Search
 
-### Search
-
-### Pivot Tables
+3. Pivot Tables
 
 
 
@@ -19,11 +18,13 @@ Public Services
 Private Services
 ----------------------
 
-### Categories
-#### Add Content
-#### Modify Content
+ 1. Categories
 
+ - Add Content
+ 
+ - Modify Content
 
-### Applicable Tools
-#### Licence Type
-#### Technology Read
+ 2. Applicable Tools
+
+ - Licence Type
+ - Technology Read
