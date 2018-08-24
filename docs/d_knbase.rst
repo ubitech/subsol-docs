@@ -20,11 +20,14 @@ Private Services
 
  1. Categories
 
- - Add Content
- 
- - Modify Content
+
+- Add Content
+
+- Modify Content
 
  2. Applicable Tools
 
+
  - Licence Type
+ 
  - Technology Read
