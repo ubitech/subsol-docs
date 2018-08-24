@@ -1,15 +1,30 @@
 ========
 Marketplace
 ========
-Applicable tools
+Organization Representative
 ----------------
-Related projects
-----------------
-SWS solutions
---------------
-Reference applications
-----------------------
-Inbox
-------
-Knowledge Base Button
---------------
+### Simple User
+
+#### Dashboard
+
+#### Applicable Tools
+
+- Open
+
+- View More
+
+- Add to
+
+- Rate
+
+- Chat
+
+### Manager
+
+####  Manager View
+
+#### Inbox
+
+- Resolves
+
+- Send Messages

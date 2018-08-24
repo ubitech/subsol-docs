@@ -1,29 +1,29 @@
 ========
 Knowledge Base
 ========
-Applicable tools
+Public Services
 ----------------
-SWS solutions
--------------
-Reference applications
-----------------------
-Related projects
------------------
-Publications & References
---------------------------
-Regulations
--------------
-Regional Assessments
---------------------
-Data Providers
---------------
-Working Group
---------------
-Persons
---------
-- Person List
 
-Organisations
--------------
-Terms v1
-------
+### Read more
+
+
+### Search
+
+### Pivot Tables
+
+
+
+
+
+
+Private Services
+----------------------
+
+### Categories
+#### Add Content
+#### Modify Content
+
+
+### Applicable Tools
+#### Licence Type
+#### Technology Read
