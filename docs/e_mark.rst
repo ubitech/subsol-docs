@@ -20,8 +20,8 @@ Simple User
 
 - Chat
 
- Manager
- ----------
+Manager
+----------
 
 1. Manager View
 
