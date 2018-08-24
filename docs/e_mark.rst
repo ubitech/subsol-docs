@@ -3,11 +3,12 @@ Marketplace
 ========
 Organization Representative
 ----------------
-### Simple User
+Simple User
+----------
 
-#### Dashboard
+1. Dashboard
 
-#### Applicable Tools
+2. Applicable Tools
 
 - Open
 
@@ -19,11 +20,12 @@ Organization Representative
 
 - Chat
 
-### Manager
+ Manager
+ ----------
 
-####  Manager View
+1. Manager View
 
-#### Inbox
+2. Inbox
 
 - Resolves
 
