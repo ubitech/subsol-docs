@@ -31,6 +31,39 @@ Public Services
 
 2. Search
 
+ 2.1 Advance search
+
+ - Step 1
+
+.. image:: assets/subsol_as_1.png
+
+- Step 2
+
+.. image:: assets/subsol_as_2.png
+
+- Step 3
+
+.. image:: assets/subsol_as_3.png
+
+- Step 4
+
+.. image:: assets/subsol_as_4.png
+
+- Step 5
+
+.. image:: assets/subsol_as_5.png
+
+- Step 6
+
+.. image:: assets/subsol_as_6.png
+
+- Step 7
+
+.. image:: assets/subsol_as_7.png
+
+
+
+
 3. Pivot Tables
 
 
