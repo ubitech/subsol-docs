@@ -9,23 +9,23 @@ Public Services
 
  - Step 1
 
-.. image:: assets/rm_1.png
+.. image:: assets/subsol_rm_1.png
 
 - Step 2
 
-.. image:: assets/rm_2.png
+.. image:: assets/subsol_rm_2.png
 
 - Step 3
 
-.. image:: assets/rm_3.png
+.. image:: assets/subsol_rm_3.png
 
 - Step 4
 
-.. image:: assets/rm_4.png
+.. image:: assets/subsol_rm_4.png
 
 - Step 5
 
-.. image:: assets/rm_5.png
+.. image:: assets/subsol_rm_5.png
 
 
 
