@@ -7,7 +7,7 @@ Public Services
 **1. Read more**
 
 
- - Step 1
+- Step 1
 
 .. image:: assets/subsol_rm_1.png
 
@@ -31,9 +31,9 @@ Public Services
 
 **2. Search**
 
- *2.1 Advance search*
+*2.1 Advance search*
 
- - Step 1
+- Step 1
 
 .. image:: assets/subsol_as_1.png
 
@@ -64,7 +64,7 @@ Public Services
 
 
 
-3. **Pivot Tables**
+**3. Pivot Tables**
 
 - Step 1
 
