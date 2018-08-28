@@ -4,7 +4,7 @@ Knowledge Base
 Public Services
 ----------------
 
-1. Read more
+**1. Read more**
 
 
  - Step 1
@@ -29,9 +29,9 @@ Public Services
 
 
 
-2. Search
+**2. Search**
 
- 2.1 Advance search
+ *2.1 Advance search*
 
  - Step 1
 
@@ -64,11 +64,37 @@ Public Services
 
 
 
-3. Pivot Tables
+3. **Pivot Tables**
 
+- Step 1
 
+.. image:: assets/subsol_pt_1.png
 
+- Step 2
 
+.. image:: assets/subsol_pt_2.png
+
+- Step 3
+
+.. image:: assets/subsol_pt_3.png
+
+- Step 4
+
+.. image:: assets/subsol_pt_4.png
+
+- Step 5 
+
+.. image:: assets/subsol_pt_5.png
+
+.. image:: assets/subsol_pt_6.png
+
+- Step 6
+
+.. image:: assets/subsol_pt_7.png
+
+- Step 7
+
+.. image:: assets/subsol_pt_8.png
 
 
 Private Services
