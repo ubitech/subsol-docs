@@ -6,7 +6,6 @@ Public Services
 
 **1. Read more**
 
-
 - Step 1
 
 .. image:: assets/subsol_rm_1.png
@@ -26,7 +25,6 @@ Public Services
 - Step 5
 
 .. image:: assets/subsol_rm_5.png
-
 
 
 **2. Search**
@@ -60,8 +58,6 @@ Public Services
 - Step 7
 
 .. image:: assets/subsol_as_7.png
-
-
 
 
 **3. Pivot Tables**
@@ -100,16 +96,55 @@ Public Services
 Private Services
 ----------------------
 
- 1. Categories
+**1. Categories**
+ 
+.. image:: assets/subsol_c_1.png
+ 
+ - Step 2
+ 
+.. image:: assets/subsol_c_2.png
+ 
+ - Step 3
+ 
+.. image:: assets/subsol_c_3.png
 
 - Add Content
 
+- Step 1
+
+.. image:: assets/subsol_ac_1.png
+
+- Step 2
+
+.. image:: assets/subsol_ac_2.png
+
+- Step 3
+
+.. image:: assets/subsol_ac_3.png
+
+- Step 4
+
+.. image:: assets/subsol_ac_4.png
+
+
 - Modify Content
 
+- Step 1
 
-2. Applicable Tools
+.. image:: assets/subsol_mc_1.png
+
+- Step 2
+
+.. image:: assets/subsol_mc_2.png
+
+- Step 3 
+
+.. image:: assets/subsol_mc_3.png
 
 
- - Licence Type
+**2. Applicable Tools**
 
- - Technology Read
+
+- Licence Type
+
+- Technology Read
