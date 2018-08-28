@@ -96,8 +96,9 @@ Public Services
 Private Services
 ----------------------
 
-**1. Categories**
+**1.Categories**
  
+
 .. image:: assets/subsol_c_1.png
  
  - Step 2
@@ -108,7 +109,7 @@ Private Services
  
 .. image:: assets/subsol_c_3.png
 
-- Add Content
+**Add Content**
 
 - Step 1
 
@@ -127,7 +128,7 @@ Private Services
 .. image:: assets/subsol_ac_4.png
 
 
-- Modify Content
+**Modify Content**
 
 - Step 1
 
@@ -142,7 +143,7 @@ Private Services
 .. image:: assets/subsol_mc_3.png
 
 
-**2. Applicable Tools**
+**2.Applicable Tools**
 
 
 - Licence Type
