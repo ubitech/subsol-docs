@@ -98,14 +98,13 @@ Private Services
 
 **1.Categories**
  
-
 .. image:: assets/subsol_c_1.png
  
- - Step 2
+- Step 2
  
 .. image:: assets/subsol_c_2.png
  
- - Step 3
+- Step 3
  
 .. image:: assets/subsol_c_3.png
 
@@ -145,7 +144,41 @@ Private Services
 
 **2.Applicable Tools**
 
+**2.1. Licence Type*
 
-- Licence Type
+- Add Licence Type
+  
+ - Step 1
 
-- Technology Read
+.. image:: assets/subsol_lt_1.png
+
+- Step 2
+
+.. image:: assets/subsol_lt_2.png
+
+- Step 3
+
+.. image:: assets/subsol_lt_3.png
+
+- Step 4
+    
+.. image:: assets/subsol_lt_4.png
+
+- Edit Licence Type
+
+- Step 1
+
+.. image:: assets/subsol_lt_5.png
+
+- Step 2
+    
+.. image:: assets/subsol_lt_6.png
+
+- Step 3
+
+.. image:: assets/subsol_lt_7.png
+
+*2.2 Technology Read*
+
+- Step 1
+
