@@ -180,5 +180,40 @@ Private Services
 
 *2.2 Technology Read*
 
+- Add Technology Read
+
 - Step 1
+
+.. image:: assets/subsol_ar_1.png
+
+- Step 2
+
+.. image:: assets/subsol_ar_2.png
+
+- Step 3
+
+.. image:: assets/subsol_ar_3.png
+
+- Step 4
+
+.. image:: assets/subsol_ar_4.png
+
+- Edit Technology Read
+
+- Step 1
+
+.. image:: assets/subsol_ar_5.png
+
+- Step 2
+
+.. image:: assets/subsol_ar_6.png
+
+- Step 3
+
+.. image:: assets/subsol_ar_7.png
+
+
+
+
+
 
