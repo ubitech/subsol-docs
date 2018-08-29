@@ -5,20 +5,54 @@ Organization Representative
 Simple User
 ----------
 
-1. Dashboard
+**1. Dashboard**
 
-2. Applicable Tools
+.. image:: assets/subsol_mar_1.png
 
+- Step 2
 
-- Open
+.. image:: assets/subsol_mar_3.png
 
-- View More
+**2. Applicable Tools**
 
-- Add to
+.. image:: assets/subsol_mar_4.png
 
-- Rate
+*2.1 Open*
 
-- Chat
+- Step 1 
+
+.. image:: assets/subsol_mar_5.png
+
+- Step 2
+
+.. image:: assets/subsol_mar_6.png
+
+*2.2 Add to Favorites*
+
+- Step 1
+
+.. image:: assets/subsol_mar_7.png
+
+*2.3 Rate*
+
+- Step 1
+
+.. image:: assets/subsol_mar_8.png
+
+*2.4. Chat*
+
+- Step 1
+
+.. image:: assets/subsol_mar_9.png
+
+- Step 2 
+
+.. image:: assets/subsol_mar_10.png
+
+- Step 3
+
+.. image:: assets/subsol_mar_11.png
+
 
 Manager
 ----------
