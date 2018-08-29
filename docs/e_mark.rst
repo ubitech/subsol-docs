@@ -57,10 +57,42 @@ Simple User
 Manager
 ----------
 
-1. Manager View
+**1. Manager View**
 
-2. Inbox
+.. image:: assets/subsol_mar_1.png
 
-- Resolves
+- Step 2
 
-- Send Messages
+.. image:: assets/subsol_mms_1.png
+
+
+**2. Inbox**
+
+*2.1. Send Messages*
+
+- Step 1 
+
+.. image:: assets/subsol_mms_2.png
+
+- Step 2
+
+.. image:: assets/subsol_mms_3.png
+
+- Step 3
+
+.. image:: assets/subsol_mms_4.png
+
+*2.2. Resolve Issue*
+
+- Step 1 
+
+.. image:: assets/subsol_mms_51.png
+
+- Step 2
+
+.. image:: assets/subsol_mms_5.png
+
+
+
+
+
