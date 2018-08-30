@@ -6,26 +6,26 @@ Create Account
 
 .. image:: assets/intro_1.png
 
-- step 2
+- Click on login button.
 
 .. image:: assets/intro_2.png
 
-- Step 3
+- Provide account information
 
 .. image:: assets/intro_3.png
 
-- Step 4
+- Click on Create Account button
 
 .. image:: assets/intro_4.png
 
-- Step 5
+- Go to your email and click on Subsol account information link.
 
 .. image:: assets/intro_5.png
 
-- Step 6
+- Your Account has successfully verified
 
 .. image:: assets/intro_6.png
 
-- Step 7
+- Now login you can login to your account
 
 .. image:: assets/intro_7.png
