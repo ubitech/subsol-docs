@@ -32,6 +32,6 @@ Edit account
 
 .. image:: assets/subsol_ed_3.png
 
-- A pop-up message confirm that you update successfully your account.
+- A pop-up message confirmσ that you have successfully update your account.
 
 .. image:: assets/subsol_ed_4.png
