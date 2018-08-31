@@ -6,11 +6,11 @@ Public Services
 
 **1. Read more**
 
-- Step 1
+- Click on the "Knowledge Base" drop-down list.
 
 .. image:: assets/subsol_rm_1.png
 
-- Step 2
+- Select the preferred category from the dropdown list. (In this use case "SWS SOLUTIONS")
 
 .. image:: assets/subsol_rm_2.png
 
@@ -78,7 +78,7 @@ Public Services
 
 .. image:: assets/subsol_pt_4.png
 
-- Step 5 
+- Step 5
 
 .. image:: assets/subsol_pt_5.png
 
@@ -97,15 +97,15 @@ Private Services
 ----------------------
 
 **1.Categories**
- 
+
 .. image:: assets/subsol_c_1.png
- 
+
 - Step 2
- 
+
 .. image:: assets/subsol_c_2.png
- 
+
 - Step 3
- 
+
 .. image:: assets/subsol_c_3.png
 
 **Add Content**
@@ -137,7 +137,7 @@ Private Services
 
 .. image:: assets/subsol_mc_2.png
 
-- Step 3 
+- Step 3
 
 .. image:: assets/subsol_mc_3.png
 
@@ -147,7 +147,7 @@ Private Services
 **2.1. Licence Type*
 
 - Add Licence Type
-  
+
  - Step 1
 
 .. image:: assets/subsol_lt_1.png
@@ -161,7 +161,7 @@ Private Services
 .. image:: assets/subsol_lt_3.png
 
 - Step 4
-    
+
 .. image:: assets/subsol_lt_4.png
 
 - Edit Licence Type
@@ -171,7 +171,7 @@ Private Services
 .. image:: assets/subsol_lt_5.png
 
 - Step 2
-    
+
 .. image:: assets/subsol_lt_6.png
 
 - Step 3
@@ -211,9 +211,3 @@ Private Services
 - Step 3
 
 .. image:: assets/subsol_ar_7.png
-
-
-
-
-
-
