@@ -4,7 +4,7 @@ Knowledge Base
 Public Services
 ----------------
 
-**1. Read more**
+**1. Workflow**
 
 - Click on the "Knowledge Base" drop-down list.
 
@@ -14,81 +14,73 @@ Public Services
 
 .. image:: assets/subsol_rm_2.png
 
-- Step 3
+- Select an item to view detailed information.
 
 .. image:: assets/subsol_rm_3.png
 
-- Step 4
+- Click on "Read More" button.
 
 .. image:: assets/subsol_rm_4.png
 
-- Step 5
+- View full information available for this item.(In this use case "Freshmaker.")
 
 .. image:: assets/subsol_rm_5.png
 
 
 **2. Search**
 
-*2.1 Advance search*
+*2.1 Advanced search*
 
-- Step 1
+- Click on "Search" button.
 
 .. image:: assets/subsol_as_1.png
 
-- Step 2
+- Select the "Advanced Search" opton from dropdown list.
 
 .. image:: assets/subsol_as_2.png
 
-- Step 3
+- Select a data category to search.
 
 .. image:: assets/subsol_as_3.png
 
-- Step 4
-
-.. image:: assets/subsol_as_4.png
-
-- Step 5
+- Provide Search criteria.
 
 .. image:: assets/subsol_as_5.png
 
-- Step 6
+- Select an item from the search results.
 
 .. image:: assets/subsol_as_6.png
 
-- Step 7
+- View full information available for this item.
 
 .. image:: assets/subsol_as_7.png
 
 
 **3. Pivot Tables**
 
-- Step 1
+- Click on "Search" button.
 
 .. image:: assets/subsol_pt_1.png
 
-- Step 2
+- Click on "Pivot Tables".
 
 .. image:: assets/subsol_pt_2.png
 
-- Step 3
+- Select the preferred category from the dropdown list. (In this use case "SWS SOLUTIONS").
 
 .. image:: assets/subsol_pt_3.png
 
-- Step 4
-
-.. image:: assets/subsol_pt_4.png
-
-- Step 5
+- Select the preferred parameters from dropdown lists.
 
 .. image:: assets/subsol_pt_5.png
 
 .. image:: assets/subsol_pt_6.png
 
-- Step 6
+- Click on prefered results.
 
 .. image:: assets/subsol_pt_7.png
 
-- Step 7
+- Click on relevant item and view details.
 
 .. image:: assets/subsol_pt_8.png
 

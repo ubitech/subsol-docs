@@ -2,19 +2,19 @@ Subsol walkthrough
 ========
 Create Account
 --------
-- When a user access the ENTROPY site (http://subsol.euprojects.net/) the following screen is shown:
+- When a user access the Subsol site (http://subsol-data.euprojects.net/) the following screen is shown:
 
 .. image:: assets/intro_1.png
 
-- Click on login button.
+- Click on "Register" button.
 
 .. image:: assets/intro_2.png
 
-- Provide account information
+- Provide account information.
 
 .. image:: assets/intro_3.png
 
-- Click on Create Account button
+- Click on "Create Account" button.
 
 .. image:: assets/intro_4.png
 
@@ -22,10 +22,10 @@ Create Account
 
 .. image:: assets/intro_5.png
 
-- Your Account has successfully verified
+- Your Account has successfully verified.
 
 .. image:: assets/intro_6.png
 
-- Now login you can login to your account
+- Now  you can login to your account.
 
 .. image:: assets/intro_7.png
