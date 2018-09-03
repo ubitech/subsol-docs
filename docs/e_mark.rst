@@ -7,9 +7,11 @@ Simple User
 
 **1. Dashboard**
 
+- Click on "Marketplace" Menu-item.
+
 .. image:: assets/subsol_mar_1.png
 
-- Step 2
+- The user can review the marketplace area.
 
 .. image:: assets/subsol_mar_3.png
 
@@ -19,37 +21,37 @@ Simple User
 
 *2.1 Open*
 
-- Step 1 
+- Click on preferred icon view from applicable list.
 
 .. image:: assets/subsol_mar_5.png
 
-- Step 2
+-  View full information available for this item.
 
 .. image:: assets/subsol_mar_6.png
 
-*2.2 Add to Favorites*
+*2.2 Rate a product*
 
-- Step 1
+- Click on "Rate a product" stars to evaluate it.
 
 .. image:: assets/subsol_mar_7.png
 
-*2.3 Rate*
+*2.3 Add to Favorites*
 
-- Step 1
+- Click on "heart" button to add this product to favorites.
 
 .. image:: assets/subsol_mar_8.png
 
 *2.4. Chat*
 
-- Step 1
+- Click on "Start Chat" button.
 
 .. image:: assets/subsol_mar_9.png
 
-- Step 2 
+- Provide your message and click on "save" button.
 
 .. image:: assets/subsol_mar_10.png
 
-- Step 3
+- You have successfully send your message to Manager.
 
 .. image:: assets/subsol_mar_11.png
 
@@ -61,7 +63,7 @@ Manager
 
 .. image:: assets/subsol_mar_1.png
 
-- Step 2
+- Initially the user must login with manager account privileges.
 
 .. image:: assets/subsol_mms_1.png
 
@@ -70,29 +72,24 @@ Manager
 
 *2.1. Send Messages*
 
-- Step 1 
+- Click on "inbox" menu-item.
 
 .. image:: assets/subsol_mms_2.png
 
-- Step 2
+- Write your answer and click on "Send Message" menu-item.
 
 .. image:: assets/subsol_mms_3.png
 
-- Step 3
+- A pop-up message confirms that you have successfully send your answer.
 
 .. image:: assets/subsol_mms_4.png
 
 *2.2. Resolve Issue*
 
-- Step 1 
+- Click on "Resolve" button.
 
 .. image:: assets/subsol_mms_51.png
 
-- Step 2
+- A pop-up message confirms that you have successfully update your chat status.
 
 .. image:: assets/subsol_mms_5.png
-
-
-
-
-
