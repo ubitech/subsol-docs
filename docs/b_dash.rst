@@ -9,6 +9,7 @@ regarding the set of services provided through the platform.
 
 From the dashboard, access is provided to the Knowledge Base, the Marketplace and the Toolbox.
 Free access is provided to the public part of the Knowledge Base, while in the rest parts registration is required.
+
 Login to account
 -----------------
 .. image:: assets/subsol_cr_1.png

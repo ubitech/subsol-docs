@@ -90,116 +90,116 @@ Private Services
 
 **1.Categories**
 
+- Initially the user must login with private account privileges.
+
 .. image:: assets/subsol_c_1.png
 
-- Step 2
+- Click on "Edit".
 
 .. image:: assets/subsol_c_2.png
 
-- Step 3
+- The desired Knowledge base category are at left menu.
 
 .. image:: assets/subsol_c_3.png
 
 **Add Content**
 
-- Step 1
+- Click on desired menu-item (in this case Application Tools).
 
 .. image:: assets/subsol_ac_1.png
 
-- Step 2
+- Click on "CREATE NEW" button.
 
 .. image:: assets/subsol_ac_2.png
 
-- Step 3
+- Provide your info and click on "Save" button.
 
 .. image:: assets/subsol_ac_3.png
 
-- Step 4
+- A pop-up message confirms that you have successfully create your new entry.
 
 .. image:: assets/subsol_ac_4.png
 
 
 **Modify Content**
 
-- Step 1
+- Click on "Modify" pencil-item.
 
 .. image:: assets/subsol_mc_1.png
 
-- Step 2
+- Provide your changes and click on "Save" button.
 
 .. image:: assets/subsol_mc_2.png
 
-- Step 3
+- A pop-up message confirms that you have successfully create your new entry.
 
 .. image:: assets/subsol_mc_3.png
 
 
 **2.Applicable Tools**
 
-**2.1. Licence Type*
+*2.1. Licence Type*
 
-- Add Licence Type
-
- - Step 1
+- Click on "Licence Type" menu-item
 
 .. image:: assets/subsol_lt_1.png
 
-- Step 2
+- Click on "CREATE NEW" button.
 
 .. image:: assets/subsol_lt_2.png
 
-- Step 3
+- Provide licence type info and click on "Save" button.
 
 .. image:: assets/subsol_lt_3.png
 
-- Step 4
+- A pop-up message confirms that you have successfully create your new licence type.
 
 .. image:: assets/subsol_lt_4.png
 
 - Edit Licence Type
 
-- Step 1
+- Click on "Modify" pencil-item.
 
 .. image:: assets/subsol_lt_5.png
 
-- Step 2
+- Provide your changes and click on "Save" button.
 
 .. image:: assets/subsol_lt_6.png
 
-- Step 3
+- A pop-up message confirms that you have successfully update your licence type.
 
 .. image:: assets/subsol_lt_7.png
 
-*2.2 Technology Read*
+*2.2 Technology Readiness*
 
-- Add Technology Read
+- Add Technology Readiness
 
-- Step 1
+- Click on "Technology Readiness" menu-item.
 
 .. image:: assets/subsol_ar_1.png
 
-- Step 2
+- Click on "Create New" button.
 
 .. image:: assets/subsol_ar_2.png
 
-- Step 3
+- Provide your credentials and click on "Save" button.
 
 .. image:: assets/subsol_ar_3.png
 
-- Step 4
+- A pop-up message confirms that you have successfully create a new Technology Readiness entry.
 
 .. image:: assets/subsol_ar_4.png
 
-- Edit Technology Read
+- Edit Technology Readiness
 
-- Step 1
+- Click on "Modify" pencil-item.
 
 .. image:: assets/subsol_ar_5.png
 
-- Step 2
+- Provide your changes and click on "Save" button.
 
 .. image:: assets/subsol_ar_6.png
 
-- Step 3
+- A pop-up message confirms that you have successfully update your Technology Readiness entry. .
 
 .. image:: assets/subsol_ar_7.png
